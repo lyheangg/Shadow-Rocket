@@ -19,8 +19,8 @@ obj={
         "max_count": 10,
         "limits_exceeded": false
       },
-      "expire_date": 1753929830000,
-      "purchase_date": 1653670630000,
+      "expire_date": 4089839042000,
+      "purchase_date": 1723083842000,
       "subscription_id": "com.picsart.studio.subscription_plus_monthly",
       "original_order_id": "450001131447088",
       "is_eligible_for_grant": false,
